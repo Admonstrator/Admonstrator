@@ -7,10 +7,9 @@
 <a href="mailto:hello@admon.in.ua"><img src="https://img.shields.io/badge/hello@admon.in.ua-840010.svg?logo=tutanota"></a> <a href="https://keybase.io/admonstrator/pgp_keys.asc?fingerprint=c2d7eb968e274d5f1b241b0495e16bdea94f50a4"><img src="https://img.shields.io/badge/PGP-95E1_6BDE_A94F_50A4-gray.svg?logo=keybase"></a>
 </p>
 
+<h2 style="text-decoration: none;">About myself</h2>
 <!-- Personal -->
 <img src="https://avatars.githubusercontent.com/u/69824" width="175" height="175" align="right" alt="Profile Picture" style="border-radius: 50%;">
-
-<h2 style="text-decoration: none;">About myself</h2>
 
 Even though I was never good at school (greetings to my Latin and Ancient Greek teachers!) I have discovered the field of IT for myself. What started with a Microsoft FrontPage '97 website now ends with a GitHub profile. Could have been worse. 15 years of experience so far, mostly Windows but sometimes Linux as well.
 
