@@ -3,7 +3,7 @@
 
 <!-- Contact details -->
 <p align="center">
-<a href="https://linkedin.com/aaronviehl"><img src="https://img.shields.io/badge/Find%20me%20on-LinkedIn-blue.svg?logo=linkedin"></a> 
+<a href="https://www.linkedin.com/in/aaronviehl/"><img src="https://img.shields.io/badge/Find%20me%20on-LinkedIn-blue.svg?logo=linkedin"></a> 
 <a href="mailto:hello@admon.in.ua"><img src="https://img.shields.io/badge/hello@admon.in.ua-840010.svg?logo=tutanota"></a> <a href="https://keybase.io/admonstrator/pgp_keys.asc?fingerprint=c2d7eb968e274d5f1b241b0495e16bdea94f50a4"><img src="https://img.shields.io/badge/PGP-95E1_6BDE_A94F_50A4-gray.svg"></a> <a href="https://keybase.io/admonstrator/"><img src="https://img.shields.io/badge/Chat_on_Keybase-gray.svg?logo=keybase"></a>
 </p>
 
