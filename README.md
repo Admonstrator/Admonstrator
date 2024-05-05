@@ -27,4 +27,4 @@ There are plenty of charities you can donate to - if you don't want to donate to
 
 ## Questions about GL.iNet devices?
 
-If you have any questions about GL.iNet devices or OpenWrt in general, feel free to contact me on the [GL.iNet forum](https://forum.gl-inet.com/u/admonstrator/summary) - where I volunteer as a technical support moderator.
+If you have any questions about GL.iNet devices or OpenWrt in general, feel free to contact me on the [GL.iNet forum](https://forum.gl-inet.com/u/admon/summary) - where I volunteer as a technical support moderator.
