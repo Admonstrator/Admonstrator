@@ -10,7 +10,7 @@
 
 <h2 style="text-decoration: none;">About myself</h2>
 <!-- Personal -->
-<img src="https://singleton-factory.de/wp-content/uploads/2023/02/profile-pictures-aaron.png" width="175" height="175" align="right" alt="Profile Picture" style="border-radius: 50%;">
+<img src="./profile.jpg" width="35%" align="right" alt="Profile Picture" style="border-radius: 8%;">
 
 Even though I was never good at school (greetings to my Latin and Ancient Greek teachers!) I have discovered the field of IT for myself. What started with a Microsoft FrontPage '97 website now ends with a GitHub profile. Could have been worse. 15 years of experience so far, mostly Windows but sometimes Linux as well.
 
