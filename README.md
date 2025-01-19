@@ -20,7 +20,7 @@ I love freedom, privacy and security - which doesn't necessarily mean that I ign
 
 ## Stop the war in Ukraine 🇺🇦
 
-I am not Ukrainian myself but my wife is. We have family and friends in Ukraine and are deeply concerned about the current situation. If you can afford it, please consider donating to the [Ukraine's defenders](https://war.ukraine.ua/donate/). 
+If you can afford it, please consider donating to the [Ukraine's defenders](https://war.ukraine.ua/donate/). 
 
 There are plenty of charities you can donate to - if you don't want to donate to the military. Every little bit helps! 🙏
 
