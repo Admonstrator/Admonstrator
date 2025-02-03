@@ -4,7 +4,7 @@
 <!-- Contact details -->
 <p align="center">
 <a href="https://www.linkedin.com/in/aaronviehl/" title="Find me on LinkedIn"><img src="https://img.shields.io/badge/Find%20me%20on-LinkedIn-blue.svg?logo=linkedin"></a>
-<a href="mailto:hello@🦭.in.ua"><img src="https://img.shields.io/badge/✉️-hello@🦭.in.ua-lightblue.svg" title="Does not work? Try hello(at)admon.in.ua instead"></a> 
+<a href="mailto:aaron@viehl.pl"><img src="https://img.shields.io/badge/✉️-aaron@viehl.pl-lightblue.svg" title="Mail me!"></a> 
 <a href="./pgp.asc" title="Find my PGP key"> <img src="https://img.shields.io/badge/PGP-95E1_6BDE_A94F_50A4-gray.svg"></a>
 </p>
 
