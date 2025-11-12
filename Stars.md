@@ -1,7 +1,7 @@
 # awesome stars
 
 A list of awesome repositories I've starred. Want your own? Try: [stargazer](https://github.com/rverst/stargazer)  
-Total starred repositories: `112`
+Total starred repositories: `113`
 ## Contents
 
   - [Blade](#blade)
@@ -26,16 +26,17 @@ Total starred repositories: `112`
 
 ## Blade
 
-  - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home \[*MIT License*\] (⭐️8362) 
+  - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home \[*MIT License*\] (⭐️8371) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
-  - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments \[*MIT License*\] (⭐️2162)
-  - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware \[*GNU GPLv3*\] (⭐️20403)
-  - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (⭐️1507)
-  - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS \[*GNU AGPLv3*\] (⭐️3875) 
+  - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments \[*MIT License*\] (⭐️2161)
+  - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware \[*GNU GPLv3*\] (⭐️20409)
+  - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project (⭐️1508)
+  - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS \[*GNU AGPLv3*\] (⭐️3875)
+  - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️13902) 
 
 **[⬆ back to top](#contents)**
 
@@ -43,15 +44,15 @@ Total starred repositories: `112`
 
   - [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10 \[*GNU GPLv3*\] (⭐️1522)
   - [kellergemeinde/game_towerdefense](https://github.com/kellergemeinde/game_towerdefense) - Towerdefense Minigame \[*Apache License 2.0*\] (⭐️18)
-  - [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar. \[*Apache License 2.0*\] (⭐️9376)
-  - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Easily access public holidays for 100+ countries via .NET, REST API, Docker, or NuGet for online and offline use. \[*MIT License*\] (⭐️1276)
-  - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) (⭐️18699) 
+  - [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar. \[*Apache License 2.0*\] (⭐️9413)
+  - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Easily access public holidays for 100+ countries via .NET, REST API, Docker, or NuGet for online and offline use. \[*MIT License*\] (⭐️1277)
+  - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) (⭐️18711) 
 
 **[⬆ back to top](#contents)**
 
 ## C++
 
-  - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI  \[*GNU GPLv2*\] (⭐️3344)
+  - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI  \[*GNU GPLv2*\] (⭐️3345)
   - [Offensive-Panda/ShadowDumper](https://github.com/Offensive-Panda/ShadowDumper) - Shadow Dumper is a powerful tool used to dump LSASS memory, often needed in penetration testing and red teaming. It uses multiple advanced techniques to dump memory, allowing to access sensitive data in LSASS memory.  \[*MIT License*\] (⭐️565) 
 
 **[⬆ back to top](#contents)**
@@ -66,16 +67,16 @@ Total starred repositories: `112`
 
 ## Go
 
-  - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  \[*MIT License*\] (⭐️4395)
+  - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  \[*MIT License*\] (⭐️4425)
   - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) - jsleak is a tool to find secret , paths or links in the source code during the recon. (⭐️560)
   - [daniellowrie/update_script](https://github.com/daniellowrie/update_script) - Fileless "malware" that bypasses Windows Defender using PowerShell and obfuscation (⭐️117)
   - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... \[*Modified BSD License*\] (⭐️5902)
-  - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication \[*Modified BSD License*\] (⭐️14064)
+  - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication \[*Modified BSD License*\] (⭐️14065)
   - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP) \[*MIT License*\] (⭐️1041)
   - [makinori/blahaj-quest](https://github.com/makinori/blahaj-quest) - Hourly BLÅHAJ finder map \[*GNU AGPLv3*\] (⭐️169)
-  - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery (⭐️13755)
-  - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. \[*MIT License*\] (⭐️25386)
-  - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials \[*GNU AGPLv3*\] (⭐️23137) 
+  - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery (⭐️13759)
+  - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. \[*MIT License*\] (⭐️25392)
+  - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials \[*GNU AGPLv3*\] (⭐️23153) 
 
 **[⬆ back to top](#contents)**
 
@@ -84,9 +85,9 @@ Total starred repositories: `112`
   - [Admonstrator/docs-astrowarp](https://github.com/Admonstrator/docs-astrowarp) -  (⭐️1)
   - [Admonstrator/glinet-docs4.x](https://github.com/Admonstrator/glinet-docs4.x) - German translation of the GL.iNet docs (⭐️1)
   - [bake/fussel.space](https://github.com/bake/fussel.space) - mir wird ganz fuselig (mirror, PRs welcome) (⭐️2)
-  - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems \[*GNU GPLv3*\] (⭐️12293)
+  - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems \[*GNU GPLv3*\] (⭐️12296)
   - [MichaelGrafnetter/active-directory-firewall](https://github.com/MichaelGrafnetter/active-directory-firewall) - Active Directory Firewall \[*MIT License*\] (⭐️91)
-  - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments. \[*GNU GPLv3*\] (⭐️1612) 
+  - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments. \[*GNU GPLv3*\] (⭐️1614) 
 
 **[⬆ back to top](#contents)**
 
@@ -104,7 +105,7 @@ Total starred repositories: `112`
 
 ## JavaScript
 
-  - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents. \[*MIT License*\] (⭐️4526)
+  - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents. \[*MIT License*\] (⭐️4530)
   - [uPagge/uBlogger](https://github.com/uPagge/uBlogger) - A template designed with your readers in mind :heart: \[*MIT License*\] (⭐️248) *Archived!*
   - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code (⭐️1147) 
 
@@ -121,41 +122,41 @@ Total starred repositories: `112`
   - [JoelGMSec/AzureGraph](https://github.com/JoelGMSec/AzureGraph) - Azure AD enumeration over MS Graph \[*GNU GPLv3*\] (⭐️82)
   - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with ❤️ by @last0x00 and @dottor_morte (⭐️2037)
   - [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 and AzureAD with a valid cred (⭐️730)
-  - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory \[*GNU GPLv3*\] (⭐️7090)
-  - [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes (⭐️1646)
-  - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts. (⭐️610) 
+  - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory \[*GNU GPLv3*\] (⭐️7095)
+  - [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes (⭐️1649)
+  - [techspence/ScriptSentry](https://github.com/techspence/ScriptSentry) - ScriptSentry finds misconfigured and dangerous logon scripts. (⭐️611) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
-  - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers \[*GNU GPLv2*\] (⭐️10686)
-  - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets. \[*Apache License 2.0*\] (⭐️256)
-  - [angolo40/GLiNet_HomeAssistant](https://github.com/angolo40/GLiNet_HomeAssistant) - GLiNet Router HomeAssistant integration \[*MIT License*\] (⭐️28)
+  - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers \[*GNU GPLv2*\] (⭐️10688)
+  - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets. \[*Apache License 2.0*\] (⭐️257)
+  - [angolo40/GLiNet_HomeAssistant](https://github.com/angolo40/GLiNet_HomeAssistant) - GLiNet Router HomeAssistant integration \[*MIT License*\] (⭐️29)
   - [BeetleChunks/SpoolSploit](https://github.com/BeetleChunks/SpoolSploit) - A collection of Windows print spooler exploits containerized with other utilities for practical exploitation. \[*GNU GPLv3*\] (⭐️553)
   - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops \[*MIT License*\] (⭐️2232)
-  - [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) - A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE (⭐️806)
-  - [D4Vinci/elpscrk](https://github.com/D4Vinci/elpscrk) - An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in Mr.Robot series S01E01) \[*GNU GPLv3*\] (⭐️892)
+  - [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) - A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE (⭐️807)
+  - [D4Vinci/elpscrk](https://github.com/D4Vinci/elpscrk) - An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in Mr.Robot series S01E01) \[*GNU GPLv3*\] (⭐️893)
   - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing  \[*MIT License*\] (⭐️2910)
   - [dievus/msLDAPDump](https://github.com/dievus/msLDAPDump) - LDAP enumeration tool implemented in Python3 \[*GNU AGPLv3*\] (⭐️223)
   - [dionach/CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.  \[*GNU GPLv3*\] (⭐️1143)
   - [fofapro/fapro](https://github.com/fofapro/fapro) - Fake Protocol Server (⭐️1605)
   - [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder) - Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105) \[*MIT License*\] (⭐️437)
-  - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  \[*Apache License 2.0*\] (⭐️9470)
-  - [GoSecure/pyrdp](https://github.com/GoSecure/pyrdp) - RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact \[*GNU GPLv3*\] (⭐️1733)
-  - [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip) - Try to find the origin IP of a webapp protected by Cloudflare. \[*MIT License*\] (⭐️353)
+  - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  \[*Apache License 2.0*\] (⭐️9520)
+  - [GoSecure/pyrdp](https://github.com/GoSecure/pyrdp) - RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact \[*GNU GPLv3*\] (⭐️1732)
+  - [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip) - Try to find the origin IP of a webapp protected by Cloudflare. \[*MIT License*\] (⭐️352)
   - [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore) - KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync). \[*GNU GPLv3*\] (⭐️260)
   - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware. \[*Apache License 2.0*\] (⭐️3773)
   - [MazX0p/ThreatHound](https://github.com/MazX0p/ThreatHound) -  (⭐️160)
-  - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. \[*GNU GPLv3*\] (⭐️9677)
-  - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. \[*MIT License*\] (⭐️82815)
-  - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents \[*GNU GPLv3*\] (⭐️34180)
-  - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool \[*BSD 2-Clause "Simplified" License*\] (⭐️4898)
-  - [sl4x0/subfree](https://github.com/sl4x0/subfree) - Your subdomains are free for the taking - no API key, no mistaking! 🕺 \[*MIT License*\] (⭐️36)
-  - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF \[*MIT License*\] (⭐️71537)
-  - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease. (⭐️2217)
+  - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. \[*GNU GPLv3*\] (⭐️9679)
+  - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. \[*MIT License*\] (⭐️82884)
+  - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents \[*GNU GPLv3*\] (⭐️34191)
+  - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool \[*BSD 2-Clause "Simplified" License*\] (⭐️4902)
+  - [sl4x0/subfree](https://github.com/sl4x0/subfree) - Your subdomains are free for the taking - no API key, no mistaking! 🕺 \[*MIT License*\] (⭐️37)
+  - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF \[*MIT License*\] (⭐️71560)
+  - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease. (⭐️2218)
   - [Th0h0/autossrf](https://github.com/Th0h0/autossrf) - Smart context-based SSRF vulnerability scanner. (⭐️360)
-  - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. (⭐️12586)
+  - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. (⭐️12589)
   - [twelvesec/rootend](https://github.com/twelvesec/rootend) - A *nix Enumerator & Auto Privilege Escalation tool. \[*GNU GPLv3*\] (⭐️150)
   - [WangYihang/SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) - :bug: A multi threads web application source leak scanner (⭐️392) 
 
@@ -163,8 +164,8 @@ Total starred repositories: `112`
 
 ## Rust
 
-  - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available  \[*Modified BSD License*\] (⭐️5883)
-  - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ \[*Apache License 2.0*\] (⭐️31688)
+  - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available  \[*Modified BSD License*\] (⭐️5898)
+  - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ \[*Apache License 2.0*\] (⭐️31698)
   - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer \[*European Union Public License 1.2*\] (⭐️1776) 
 
 **[⬆ back to top](#contents)**
@@ -175,8 +176,8 @@ Total starred repositories: `112`
   - [Admonstrator/glinet-enable-acme](https://github.com/Admonstrator/glinet-enable-acme) - This script enables the Automated Certificate Management Environment (ACME) for GL.iNet routers. \[*MIT License*\] (⭐️15)
   - [Admonstrator/glinet.forum](https://github.com/Admonstrator/glinet.forum) - Stuff for the glinet forum (⭐️38)
   - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page. \[*GNU GPLv3*\] (⭐️717)
-  - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities. \[*MIT License*\] (⭐️1262)
-  - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated. (⭐️1682)
+  - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities. \[*MIT License*\] (⭐️1261)
+  - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated. (⭐️1684)
   - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) - linWinPwn is a bash script that streamlines the use of a number of Active Directory tools \[*MIT License*\] (⭐️2107)
   - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) - Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️ \[*GNU GPLv2*\] (⭐️387)
   - [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) - Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty (⭐️281)
@@ -186,15 +187,15 @@ Total starred repositories: `112`
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8468)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8470)
   - [l3montree-dev/devguard-web](https://github.com/l3montree-dev/devguard-web) - DevGuard Web Frontend  - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project (⭐️20)
   - [Lissy93/cso](https://github.com/Lissy93/cso) - 🍩 Chief Snack Officer - A platform for requesting, voting and managing office snacks \[*MIT License*\] (⭐️17)
-  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 (⭐️20063)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️26844)
+  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 (⭐️20071)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️26860)
   - [mustafachyi/NordVPN-WireGuard-Config-Generator](https://github.com/mustafachyi/NordVPN-WireGuard-Config-Generator) - A high performance Python CLI for generating optimized NordVPN WireGuard configurations based on server load and proximity. \[*GNU GPLv3*\] (⭐️320)
-  - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (⭐️155277)
-  - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. (⭐️19219)
-  - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure. \[*Apache License 2.0*\] (⭐️5957) 
+  - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (⭐️155503)
+  - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. (⭐️19304)
+  - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure. \[*Apache License 2.0*\] (⭐️5959) 
 
 **[⬆ back to top](#contents)**
 
@@ -202,22 +203,22 @@ Total starred repositories: `112`
 
   - [chryzsh/awesome-windows-security](https://github.com/chryzsh/awesome-windows-security) - List of Awesome Windows Security Resources (⭐️308) *Archived!*
   - [CyberSecurityUP/Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists) - Checklists for Testing Security environment (⭐️841)
-  - [CyberSecurityUP/OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE (⭐️3479)
-  - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. \[*Creative Commons Zero v1.0 Universal*\] (⭐️22123)
-  - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things (⭐️24438)
-  - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. \[*GNU GPLv3*\] (⭐️9910)
+  - [CyberSecurityUP/OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE (⭐️3478)
+  - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device. \[*Creative Commons Zero v1.0 Universal*\] (⭐️22132)
+  - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things (⭐️24463)
+  - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter. \[*GNU GPLv3*\] (⭐️9912)
   - [LOLAPPS-Project/LOLAPPS](https://github.com/LOLAPPS-Project/LOLAPPS) - LOLAPPS is a compendium of applications that can be used to carry out day-to-day exploitation.  \[*GNU GPLv3*\] (⭐️191)
   - [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements (⭐️2619)
-  - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. \[*MIT License*\] (⭐️6373)
+  - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. \[*MIT License*\] (⭐️6374)
   - [ScottSilverman/Pentesting_Mindmaps](https://github.com/ScottSilverman/Pentesting_Mindmaps) - Mind Maps for penetration testing (⭐️20)
   - [tanc7/procmon-filters](https://github.com/tanc7/procmon-filters) - SysInternals' Process Monitor filters repository - collected from various places and made up by myself. To be used for quick Behavioral analysis of testing specimens. Inspired and based on Lenny Zeltser's collection. (⭐️3)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️193230) 
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️193369) 
 
 **[⬆ back to top](#contents)**
 
 ## Vue
 
-  - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  \[*GNU GPLv3*\] (⭐️33951) 
+  - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  \[*GNU GPLv3*\] (⭐️33966) 
 
 **[⬆ back to top](#contents)**
 
